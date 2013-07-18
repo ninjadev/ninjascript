@@ -1,6 +1,4 @@
-ninjascript
-===========
-
+# Ninjascript
 
 <table>
 <tr>
